@@ -38,4 +38,4 @@ Project is: finished
 Project inspired by Michael Lindstrom, UCLA Professor who taught me in PIC40A (Introduction to Programming for the Internet) 
 
 ## Contact
-Created by Seng Chow Choy - feel free to contact me at my [email](sengchowtech@gmail.com)
+Created by Seng Chow Choy - feel free to contact me at my [email](sengchow1996@g.ucla.edu)
